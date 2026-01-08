@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Google Scholar Link](https://img.shields.io/badge/Google_Scholar-Wei_Dai-lightgray?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=vOzQMGQAAAAJ)
 [![ORCiD Link](https://img.shields.io/badge/ORCiD-0000--0002--3080--4902-lightgray?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0002-3080-4902) 
 
 ![GitHub stats](https://github-readme-stats-ten-neon-77.vercel.app/api?username=anthonyweidai&count_private=true&show_icons=true&theme=merko&hide_rank=true&hide_title=true)

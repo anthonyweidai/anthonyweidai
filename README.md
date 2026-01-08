@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 ###  GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-ten-neon-77.vercel.app/api?username=anthonyweidai&count_private=true&show_icons=true&theme=merko&hide_rank=true&hide_title=true)
-
-### Most Used Lang
-
-![Wei's Top Languages](https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=anthonyweidai&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&card_width=500&theme=merko)

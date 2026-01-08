@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <!---
 ![GitHub Readme Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyweidai&layout=compact&theme=transparent&title_color=5b7f87)
 -->
+
+[![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyweidai)](https://github.com/anthonyweidai/github-readme-stats)

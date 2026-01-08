@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
+[![Google Scholar Link](https://img.shields.io/badge/Google_Scholar-Wei_Dai-lightgray?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=vOzQMGQAAAAJ)
+[![Researchgate Link](https://img.shields.io/badge/Researchgate-Wei_Dai-lightgray?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Wei-Dai-90) <img width="634" height="125" alt="image" src="https://github.com/user-attachments/assets/b02a16bd-309a-47a3-8581-e9be93d8a723" />
 [![ORCiD Link](https://img.shields.io/badge/ORCiD-0000--0002--3080--4902-lightgray?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0002-3080-4902) 
 
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=anthonyweidai&show_icons=true&theme=transparent&hide_rank=true&hide_title=true)
